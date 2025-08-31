@@ -28,7 +28,7 @@ npm run build
 
 ---
 
-## 동작 개요 (State Machine)
+## 동작 개요 (메카니즘 다이어그램)
 
 ```mermaid
 stateDiagram-v2
