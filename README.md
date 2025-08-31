@@ -1,8 +1,5 @@
 # Jeongmin Vending Machine (React + TypeScript)
 
-간단하지만 **평가 기준**을 의식해 설계한 자판기 예제입니다.  
-현금 **잔액으로 연속 주문** 후 마지막에 **거스름돈 반환**으로 종료하는 흐름을 구현합니다.  
-
 > 핵심 파일: `src/components/VendingMachine.tsx`
 
 ---
